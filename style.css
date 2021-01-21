@@ -1,0 +1,184 @@
+.row1{
+    max-width: 75% !important;
+    max-height: 100% ;
+    border: 1px solid black !important;
+    color: white;
+    background-color: coral;
+    margin-bottom: 10px;
+    justify-content: center !important;
+    }
+    .alert{
+    margin-left: 50px;
+    }
+    .dropdown-item{
+    font-weight: bold;
+    }
+    .navbar{
+    background-color: chocolate !important;
+    max-width: 100%;
+    font-weight: bold;
+    font-size: large;
+    }   
+    .navbar-brand{
+    max-height: 50%;
+    }
+    .logo{
+    max-width: 300px;
+    max-height: 100px;
+    line-height: 100px;
+    }   
+    .nav-link{
+    color: white !important;
+    text-decoration: bold !important;
+    cursor: auto;
+    }
+    .dropdown{
+    color: white !important;
+    }
+    .collapse navbar-collapse{
+    float: right !important;
+    cursor: pointer;
+    }
+    h3{
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: chocolate;
+    cursor: pointer;
+    }
+    .card1, .card2, .card3, .card4 {
+    border: 1px solid black;
+    max-width: 250px !important;
+    margin-top: 10px;
+    /* display: flex;
+    flex-direction: row; */
+    margin-bottom: 10px;
+    max-height: 100% !important;
+    cursor: pointer;
+    padding: 30px;
+    }
+    
+    
+    
+    .price{
+    text-align: center;
+    margin-bottom: 10px;
+    color: chocolate;
+    cursor: pointer;
+    }
+    .row{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+    max-height: 100%;
+    cursor: pointer;
+    }
+    .newArrival{
+    max-width: 250px;
+    max-height: 200px;
+    cursor: pointer;
+    transition:transform 1s;
+    }
+    .newArrival:hover{
+    transform: scale(1.4);
+    }
+    .button{
+    color: chocolate;
+    font-weight: bold;
+    cursor: pointer;
+    }
+    h4{
+    font-weight: bold;
+    cursor: pointer;
+    }
+    .flex-container{
+    width: 70px;
+    height: 50px;
+    line-height: 50px;
+    border: 1px solid black;
+    float: right;
+    cursor: pointer;
+    }
+    body{
+    background-color: black;
+    }
+    .falm{
+    font-size: 20px;
+    border-radius: 100px;
+    }
+    .col-sm-6{
+    /* max-width: 40%;
+    max-height: 70%; */
+    border: 1px solid black;
+    text-align: left;
+    padding: 50px;
+    /* margin-top: 100px; */
+    background-color: black !important;
+    color: white !important;
+    cursor: pointer;
+    margin-top: 200px;
+    margin-bottom: 50px;
+    }
+    .btn{
+    /* font-size: 30px; */
+    width: 200px;
+    margin-bottom: 20px;
+    }
+    .form-check{
+    display: inline !important;
+    padding: 30px;
+    }
+    .ff{
+    width: 50p;
+    height: 50px;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 8px;
+    color: white;
+    
+    }
+    .ff:hover{
+    color: white;
+    background-color: black;
+    }
+    .col-sm{
+    cursor: pointer;
+    
+    
+    }
+    .privacy{
+    text-align: left;
+    text-decoration: none;
+    color: white;
+    
+    }
+    .row2{
+    text-align: left;
+    padding-left : 0 !important;
+    margin: 0 !important;
+    
+    
+    
+    
+    }
+    
+    
+    /* 
+    .signUp{
+    max-width: 50%;
+    max-height: 50%;
+    border: 1px solid black;
+    text-align: left;
+    padding: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: black !important;
+    color: white;
+    font-weight: bold;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    } */
+    
